@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 512 512" width="512" height="512" style="enable-background:new 0 0 512 512;" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1_1_">
+    <circle cx="256" cy="261.504" r="243" style="fill:#E34F50;"/>
+  </g>
+  <g id="Layer_2">
+    <g id="Favorite"/>
+    <g>
+      <g>
+        <path d="M61.235,389.529c-8.271,0-15-6.729-15-15V85.877c0-8.271,6.729-15,15-15h386.648     c8.271,0,15,6.729,15,15v288.651c0,8.271-6.729,15-15,15L61.235,389.529L61.235,389.529z" style="fill:#1A1A1A;"/>
+        <g>
+          <path d="M447.883,71.877c7.72,0,14,6.28,14,14v288.651c0,7.72-6.28,14-14,14H61.235      c-7.72,0-14-6.28-14-14V85.877c0-7.72,6.28-14,14-14H447.883 M447.883,69.877H61.235c-8.8,0-16,7.2-16,16v288.651      c0,8.8,7.2,16,16,16h386.648c8.8,0,16-7.2,16-16V85.877C463.883,77.077,456.683,69.877,447.883,69.877L447.883,69.877z" style="fill:#666666;"/>
+        </g>
+      </g>
+      <rect height="255.8" style="fill:#CBCBCB;" width="340.82" x="82.709" y="102.302"/>
+      <circle cx="63.499" cy="231.538" r="4.108" style="fill:#808080;"/>
+      <g>
+        <ellipse cx="444.201" cy="230.208" rx="9.35" ry="9.017" transform="matrix(-1 -0.0044 0.0044 -1 887.385 462.3685)"/>
+      </g>
+      <g>
+        <circle cx="443.519" cy="229.868" r="8.683" style="fill:#4D4D4D;"/>
+        <g style="opacity:0.6;adobe-blending-mode:multiply;">
+          <path d="M443.523,221.185l0.026,1.764c1.848,0.008,3.583,0.735,4.884,2.048      s2.013,3.053,2.005,4.902c-0.016,3.799-3.12,6.889-6.949,6.889c-1.848-0.008-3.583-0.735-4.884-2.048s-2.013-3.053-2.005-4.902      c0.016-3.798,3.12-6.889,6.92-6.889L443.523,221.185 M443.518,221.185c-4.778,0-8.662,3.863-8.682,8.645      c-0.021,4.796,3.85,8.7,8.645,8.721c0.013,0,0.026,0,0.039,0c4.778,0,8.662-3.863,8.682-8.645c0.021-4.796-3.85-8.7-8.645-8.721      C443.544,221.185,443.531,221.185,443.518,221.185L443.518,221.185z" style="fill:#333333;adobe-blending-mode:normal;"/>
+        </g>
+      </g>
+      <circle cx="443.519" cy="229.868" r="3.199" style="fill:#333333;"/>
+      <rect height="220.347" style="fill: none; stroke: rgb(0, 88, 176); stroke-linejoin: round; stroke-linecap: round; stroke-width: 4px;" width="91.134" x="90.307" y="120.182"/>
+      <rect height="220.347" style="fill: none; stroke-linejoin: round; stroke-linecap: round; stroke-width: 4px; stroke: rgb(0, 170, 48);" width="91.134" x="201.541" y="121.29"/>
+      <rect height="220.347" style="fill: none; stroke-linejoin: round; stroke-linecap: round; stroke-width: 4px; stroke: rgb(238, 71, 0);" width="91.134" x="320.962" y="121.108"/>
+    </g>
+  </g>
+</svg>
